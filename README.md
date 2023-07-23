@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelAliSanchez
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL, Rstudio and HTML
+- 👀 I’m a 5th year Econmics student with a minor in Data Science
+- 🌱 I’m always learning Python, SQL, Rstudio, & C#
 
 <!---
 SamuelAliSanchez/SamuelAliSanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
